@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vmax;
+    display: grid;
+    place-items: center;
+    font-family: Lexend;
+    background-color: mintcream;
+    
+}
+a{
+  color:  rgb(99 206 202) 
+}
+a:hover{
+  color:  teal; 
+}
+
+.nav-items{
+    height: 70px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  padding: 10px 36px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.2);
+  background-color: rgb(99 206 202);
+  color: white;
+}
+.nav-logo{
+ padding-right: 8px;
+    height: 32px;
+}
+.nav-text{
+font-family: 'Space Mono', monospace;
+font-style: italic;
+ display: flex;
+ padding: 5px; 
+}
+
+
+.place-img {
+  width: 100%;
+  border-radius: 55px;
+  margin-right: 9px;  
+  max-width: 275px;
+  padding: 20px;
+}
+
+.map-pin{
+    width: 35px;
+    
+}
+.full-card{
+    display: flex;
+    background-color: ;
+}
+.content{
+    margin:5px
+}
+.location-el{
+    margin-top: 25px;
+    display: flex;
+    align-items: center; 
+}
+.loc-name{
+    margin-right: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title-el{
+    padding-bottom:10px;
+    margin-top: -2px; 
+    font-family: 'Asul', sans-serif;
+}
+.text{
+    
+
+}
+
+hr {
+  color: red; 
+ 
+} 
+.desc-par{
+    margin-top: -10px;
+    font-family: inter;
+    font-size: 15px;
+}
+.dates-el{
+   font-family: inter;
+    font-size: 15px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
